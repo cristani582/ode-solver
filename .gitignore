@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/libraries/lib.xml
+/.idea/material_theme_project_new.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/ode-solver.iml
+/.idea/vcs.xml
