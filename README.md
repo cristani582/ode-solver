@@ -1,4 +1,4 @@
-# Java ODE Solver
+# ODE Solver
 
 A simple Java application to solve ordinary differential equations (ODEs) and systems of ODEs using numerical methods like Euler and Runge-Kutta 4th order (RK4).
 
